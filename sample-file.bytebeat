@@ -1,0 +1,12 @@
+---
+title:
+composer:
+url: http://countercomplex.blogspot.it/2011/10/algorithmic-symphonies-from-one-line-of.html
+bit-rate:
+bit-depth: 8
+language: C
+includes:
+player:
+---
+
+t * ((t>>3|t>>9)&82&t>>9)
