@@ -1,0 +1,7 @@
+https://www.metafilter.com/111959/Todays-formulaic-music
+
+(t>>6)&(2*t)&(t>>1)
+
+(t>>6)&t|t>>5|t>>11
+
+(t>>6)&t*2|t*1.5>>5|t*3>>11

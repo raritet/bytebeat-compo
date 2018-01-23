@@ -1,0 +1,5 @@
+Found here: https://github.com/woodruffw/bytebeats
+
+((t<<1)^((t<<1)+(t>>7)&t>>12))|t>>(7-(1^7&(t>>19)))|t>>8
+
+((t<<2)^((t<<3)&t>>9))|t>>(7-(1^4&(t>>15)))|t>>12
