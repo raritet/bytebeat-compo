@@ -6,7 +6,7 @@ This is meant to be a compilation of found bytebeat tunes. They should be "good"
 
 ## Why?
 
-The ultimate purpose of this compilation, for me at least, is to use the formulae to train a text-level neural network to create its own bytebeat tunes. However, it could simply be a nice, single place to keep the world's known bytebeat tunes.
+The ultimate purpose of this compilation, for me at least, is to use the formulae to train a text-level neural network to create its own bytebeat tunes. However, it could simply be a nice place to keep the world's known bytebeat tunes.
 
 ## Deets
 
